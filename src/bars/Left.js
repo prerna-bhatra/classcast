@@ -7,8 +7,8 @@ const Left=()=>{
 
 	
 return (
-	<div id="left">
-		Left
+	<div id="left" >
+		Left Bar
 	</div>
 
 	)

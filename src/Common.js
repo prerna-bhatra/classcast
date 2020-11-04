@@ -5,10 +5,7 @@ const Common=()=>{
 
 return (
 	<div id="common">
-		Common
-		gbfudkjs
-		
-
+		Common Page
 	</div>
 
 	)

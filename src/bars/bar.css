@@ -10,7 +10,7 @@
 	  border-bottom-right-radius: 40px;
 	  padding:50px 10px 10px 10px;
 	  background:#fbfcff;
-	   box-shadow: 0px 0px 10px 0px;
+	  
 
 	  
 }
@@ -21,8 +21,9 @@
 	  background:#fbfcff;
 	   border-top-left-radius: 40px;
 	    border-bottom-left-radius: 40px;
-	     width:193px;
-	      box-shadow: 0px 0px 10px 0px;
+	    width:190px;
+	  
+	     height: 1000px;
 }
 #chiken
 {
@@ -58,14 +59,12 @@
 	background: #F08080;
 	color: white;
 	border-radius: 100%;
-	vertical-align:top;
-	
+	vertical-align:top;	
 }
-
 
 #icon
 {
-	margin-left:2px;
+	margin-left:10px;
 	
 }
 .right-bottom
@@ -80,6 +79,7 @@
 	background:#8ad9f8;
 	box-shadow:5px 10px 5px 0px #77b5fe;
 	border-radius: 20px;
+	margin-top: 20px;
 }
 #teddy img
 {
@@ -141,6 +141,69 @@ background: #77b5fe;
 #crossfit button
 {
 	color: black;
+}
+#ellipsis
+{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+#user
+{
+	max-width: 100%;
+	border-radius: 50%;
+}
+#users 
+{
+	margin-top:10px;
+}
+#names
+{
+
+	line-height: 0.1em;
+}
+
+#names p
+{
+	font-size: 10px;
+}
+
+#clock
+{
+	background-color: blue;
+	color: white;
+	border-radius: 30%;
+	padding: 5px 20px 1px 8px;
+}
+#clockp 
+{
+border-bottom: 5px solid blue;	
+}
+#heart
+{
+	background-color: red;
+	color: white;
+	border-radius: 30%;
+	padding: 5px 20px 1px 8px;
+}
+#heartp 
+{
+border-bottom: 5px solid red;	
+}
+#cal
+{
+	background-color:lime;
+	color: white;
+	border-radius: 30%;
+	padding: 5px 20px 1px 8px;
+}
+#calp 
+{
+border-bottom: 5px solid lime;	
+}
+#data
+
+{
+	font-size: 10px;
 }
 
 
