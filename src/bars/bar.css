@@ -1,0 +1,143 @@
+#bars
+{
+	margin: 40px 40px 40px 40px;	
+}
+#right
+{
+	
+	  
+	 border-top-right-radius: 40px;
+	  border-bottom-right-radius: 40px;
+	  padding:50px 10px 10px 10px;
+	  background:#fbfcff;
+	   box-shadow: 0px 0px 10px 0px;
+
+	  
+}
+#left
+{
+	 
+	  padding:20px 20px 20px 20px;
+	  background:#fbfcff;
+	   border-top-left-radius: 40px;
+	    border-bottom-left-radius: 40px;
+	     width:193px;
+	      box-shadow: 0px 0px 10px 0px;
+}
+#chiken
+{
+ width:70px;
+ border-radius:50%;
+}
+
+#right-top-name  
+{
+
+	margin-left:10px;
+	line-height: 0.1px;
+}
+.right-top ul
+{
+	list-style: none;
+}
+
+.right-top ul li
+{
+	display: inline-block;
+}
+
+#bell
+{
+	margin-left:50px;
+
+}
+
+.cart-badge
+{
+	padding:5px 5px 5px 5px; 
+	background: #F08080;
+	color: white;
+	border-radius: 100%;
+	vertical-align:top;
+	
+}
+
+
+#icon
+{
+	margin-left:2px;
+	
+}
+.right-bottom
+{
+	margin:20px 20px 20px 20px;
+}
+
+
+#teddy
+{
+	
+	background:#8ad9f8;
+	box-shadow:5px 10px 5px 0px #77b5fe;
+	border-radius: 20px;
+}
+#teddy img
+{
+	width: 150px;
+}
+
+
+#Signup
+{
+	padding: 20px 20px 20px 20px;
+	line-height: 0.4em;
+	margin-top: 10px;
+}
+#Signup .btn
+{
+background: #77b5fe;
+}
+
+#training
+{
+	margin-top:10px;
+}
+
+#training
+{
+	border-radius: 20px;
+	background: lime;
+	padding: 0px 10px 10px 20px;
+	color: white;
+	line-height: .9em;
+}
+#head
+{
+	margin-top: 50px;
+}
+
+#training button
+{
+	color: black;
+}
+#warmup
+{
+	line-height: .1em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
