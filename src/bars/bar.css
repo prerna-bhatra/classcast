@@ -110,6 +110,7 @@ background: #77b5fe;
 	padding: 0px 10px 10px 20px;
 	color: white;
 	line-height: .9em;
+	box-shadow:5px 10px 5px 0px #BFFF00;
 }
 #head
 {
@@ -123,9 +124,24 @@ background: #77b5fe;
 #warmup
 {
 	line-height: .1em;
+
+}
+#crossfit
+{
+	box-shadow:5px 10px 5px 0px #FF1493;
+	margin-top: 40px;
+	border-radius: 20px;
+	background:#FF69B4;
+	padding: 0px 10px 10px 20px;
+	color: white;
+	line-height: .9em;
+	
 }
 
-
+#crossfit button
+{
+	color: black;
+}
 
 
 

@@ -75,8 +75,36 @@ return (
 				</center>
 				</div>
 				<div className="col-md-4">
+					<center>
+				<h2>20</h2>
+				<p>min</p>
+				<p>Stretch</p>
+				</center>
 				</div>
 			</div>
+		</div>
+		<div className="row" id="crossfit">
+				<div className="col-md-5">
+					<h4>Crossfit</h4>
+					<p>Sports Club</p>
+					<button className="btn">12:00</button>
+				</div>
+				<div className="col-md-4">
+				<center>
+				<h2>40</h2>
+				<p>min</p>
+				<p>Warn up</p>
+				</center>
+
+				</div>
+				<div className="col-md-3">
+				<center>
+				<h2>40</h2>
+				<p>min</p>
+				<p>Warn up</p>
+				</center>
+
+				</div>
 		</div>
 		</div>
 	</div>
